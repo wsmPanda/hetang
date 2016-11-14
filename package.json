@@ -1,0 +1,19 @@
+{
+  "name": "hetang",
+  "version": "1.0.0",
+  "description": "禾唐测试",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melan0802/hetang.git"
+  },
+  "author": "melan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melan0802/hetang/issues"
+  },
+  "homepage": "https://github.com/melan0802/hetang#readme"
+}

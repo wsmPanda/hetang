@@ -1,0 +1,21 @@
+{
+  "name": "hetang",
+  "description": "禾唐测试",
+  "main": "app.js",
+  "authors": [
+    "melan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/melan0802/hetang",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
